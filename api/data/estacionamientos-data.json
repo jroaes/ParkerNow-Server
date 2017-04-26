@@ -1,0 +1,32 @@
+[
+  {
+    "ubicacion" : {
+      "direccion" : "San Martín 1107",
+      "coordenadas": [
+          47.502649,
+          19.066785
+      ]
+    },
+    "precio" : 20
+  },
+  {
+    "ubicacion" : {
+      "direccion" : "Tucapel 0301",
+      "coordenadas": [
+          37.502649,
+          12.066785
+      ]
+    },
+    "precio" : 900
+  },
+  {
+    "ubicacion" : {
+      "direccion" : "O'higgins 980",
+      "coordenadas": [
+          27.502649,
+          22.066785
+      ]
+    },
+    "precio" : 30
+  }
+]

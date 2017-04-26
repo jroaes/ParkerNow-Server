@@ -1,0 +1,9 @@
+# Uri de mongodb
+mongodb.txt
+
+# directorios que no interesa tener en git xD
+node_modules
+dump
+
+# Configuracion de la app en heroku
+Procfile
