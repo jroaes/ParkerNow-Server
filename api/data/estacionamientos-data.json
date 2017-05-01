@@ -1,32 +1,62 @@
 [
   {
-    "ubicacion" : {
-      "direccion" : "San Martín 1107",
-      "coordenadas": [
-          47.502649,
-          19.066785
+    "location" : {
+      "address" : "San Martín 1107",
+      "coordinates": [
+          -36.825796,
+          -73.043152
       ]
     },
     "precio" : 20
   },
   {
-    "ubicacion" : {
-      "direccion" : "Tucapel 0301",
-      "coordenadas": [
-          37.502649,
-          12.066785
-      ]
-    },
-    "precio" : 900
-  },
-  {
-    "ubicacion" : {
-      "direccion" : "O'higgins 980",
-      "coordenadas": [
-          27.502649,
-          22.066785
+    "location" : {
+      "address" : "O'higgins 980",
+      "coordinates": [
+          -36.825912,
+          -73.045759
       ]
     },
     "precio" : 30
+  },
+  {
+    "location" : {
+      "address" : "Castellon 532",
+      "coordinates": [
+          -36.824820,
+          -73.047731
+      ]
+    },
+    "precio" : 35
+  },
+  {
+    "location" : {
+      "address" : "Maipú 902",
+      "coordinates": [
+          -36.823288,
+          -73.048781
+      ]
+    },
+    "precio" : 20
+  },
+  {
+    "location" : {
+      "address" : "Castellón 704",
+      "coordinates": [
+          -36.823236,
+          -73.048739
+      ]
+    },
+    "precio" : 25
+  },
+  {
+    "location" : {
+      "address" : "Paicaví 401",
+      "coordinates": [
+          -36.824212,
+          -73.041743
+      ]
+    },
+    "precio" : 18
   }
 ]

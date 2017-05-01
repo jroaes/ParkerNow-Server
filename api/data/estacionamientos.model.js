@@ -1,10 +1,10 @@
 var mongoose = require('mongoose');
 
 var estacionamientoSchema = new mongoose.Schema({
-  ubicacion : {
-    direccion : String,
+  location : {
+    address : String,
     // always store coordinates longitude (E/W), latitude (N/S)
-    coordenadas : {
+    coordinates : {
       type : [Number],
       index : '2dsphere'
     }

@@ -1,7 +1,8 @@
 var mongoose = require('mongoose');
 var dburl = process.env.MONGODB_URI;
+var dburllocal = "mongodb://localhost:27017/estacionamientosDB"
 
-mongoose.connect(dburl);
+mongoose.connect(dburl || dburllocal);
 
 mongoose.connection.on('connected', function() {
   console.log('Mongoose connected to: ' + dburl);
